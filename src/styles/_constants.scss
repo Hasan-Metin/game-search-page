@@ -1,0 +1,17 @@
+$greyish: #afafaf;
+$primartTextColor: #1e1e1e;
+$contentWidth: 1200px;
+
+%perfect-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+%primaryTextStyle {
+  font-family: GreycliffCF;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1C8127BD-FFB1-4A84-B3C1-0C01823F36E9</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.117647 0 0 0 0 0.117647 0 0 0 0 0.117647 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="DONE---04_Games" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DT_04_02_Games" transform="translate(-959.000000, -2724.000000)">
+            <g id="footer" transform="translate(2.000000, 2662.000000)">
+                <g id="icon/twitter" transform="translate(933.000000, 24.000000)" filter="url(#filter-1)">
+                    <g transform="translate(24.000000, 38.000000)">
+                        <path d="M19.2,2.0456 C18.4936,2.3592 17.7344,2.5704 16.9376,2.6656 C17.7512,2.1784 18.376,1.4064 18.6696,0.4864 C17.9088,0.9376 17.0656,1.2656 16.168,1.4424 C15.4504,0.6768 14.4256,0.1984 13.2928,0.1984 C10.7496,0.1984 8.8808,2.5712 9.4552,5.0344 C6.1824,4.8704 3.28,3.3024 1.3368,0.9192 C0.3048,2.6896 0.8016,5.0056 2.5552,6.1784 C1.9104,6.1576 1.3024,5.9808 0.772,5.6856 C0.7288,7.5104 2.0368,9.2176 3.9312,9.5976 C3.3768,9.748 2.7696,9.7832 2.152,9.6648 C2.6528,11.2296 4.1072,12.368 5.832,12.4 C4.176,13.6984 2.0896,14.2784 -1.42108547e-15,14.032 C1.7432,15.1496 3.8144,15.8016 6.0384,15.8016 C13.352,15.8016 17.484,9.6248 17.2344,4.0848 C18.004,3.5288 18.672,2.8352 19.2,2.0456 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
