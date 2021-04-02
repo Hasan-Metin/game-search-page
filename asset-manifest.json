@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/game-search-page/static/css/main.9849473d.chunk.css",
+    "main.js": "/game-search-page/static/js/main.4184521c.chunk.js",
+    "main.js.map": "/game-search-page/static/js/main.4184521c.chunk.js.map",
+    "runtime-main.js": "/game-search-page/static/js/runtime-main.d774d94f.js",
+    "runtime-main.js.map": "/game-search-page/static/js/runtime-main.d774d94f.js.map",
+    "static/js/2.b6b0f997.chunk.js": "/game-search-page/static/js/2.b6b0f997.chunk.js",
+    "static/js/2.b6b0f997.chunk.js.map": "/game-search-page/static/js/2.b6b0f997.chunk.js.map",
+    "static/js/3.b402dcd8.chunk.js": "/game-search-page/static/js/3.b402dcd8.chunk.js",
+    "static/js/3.b402dcd8.chunk.js.map": "/game-search-page/static/js/3.b402dcd8.chunk.js.map",
+    "index.html": "/game-search-page/index.html",
+    "static/css/main.9849473d.chunk.css.map": "/game-search-page/static/css/main.9849473d.chunk.css.map",
+    "static/js/2.b6b0f997.chunk.js.LICENSE.txt": "/game-search-page/static/js/2.b6b0f997.chunk.js.LICENSE.txt",
+    "static/media/SearchBanner.style.scss": "/game-search-page/static/media/55176.870c573a.jpeg",
+    "static/media/arrowIconDown.04d92ba5.svg": "/game-search-page/static/media/arrowIconDown.04d92ba5.svg",
+    "static/media/facebook.e36250b4.svg": "/game-search-page/static/media/facebook.e36250b4.svg",
+    "static/media/index.css": "/game-search-page/static/media/greycliffcfBold.dd8e6bcd.otf",
+    "static/media/indicator.2d8d4539.svg": "/game-search-page/static/media/indicator.2d8d4539.svg",
+    "static/media/instagram.213c2178.svg": "/game-search-page/static/media/instagram.213c2178.svg",
+    "static/media/logo.6a0dd85e.png": "/game-search-page/static/media/logo.6a0dd85e.png",
+    "static/media/magnify.621d3dbc.svg": "/game-search-page/static/media/magnify.621d3dbc.svg",
+    "static/media/polygon.ee951614.svg": "/game-search-page/static/media/polygon.ee951614.svg",
+    "static/media/twitter.4a3d747a.svg": "/game-search-page/static/media/twitter.4a3d747a.svg",
+    "static/media/youtube.fad63f94.svg": "/game-search-page/static/media/youtube.fad63f94.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d774d94f.js",
+    "static/js/2.b6b0f997.chunk.js",
+    "static/css/main.9849473d.chunk.css",
+    "static/js/main.4184521c.chunk.js"
+  ]
+}
