@@ -1,8 +1,0 @@
-{
-  "short_name": "Game Search",
-  "name": "Game Search Page Sample",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
